@@ -1,5 +1,5 @@
 # Akshara-Keshaboini
-# Hi 👋 I'm Akshara Yadav
+# Hi 👋 I'm Akshara 
 
 🎓 Student | 💻 Beginner Programmer  
 
